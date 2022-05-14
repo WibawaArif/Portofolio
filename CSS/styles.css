@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}   
+#homepage-ticker-name {
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 6.625rem;
+
+    color: #2F8F9D;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #247881;
+
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #2F8F9D;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #2F8F9D;
+}
+p {
+    line-height: 35px;
+}
+#homepage-ticker {
+    margin-top: 10px;
+    color: #2F8F9D;
+    font-size: 1.4rem;
+    font-weight: 150;
+    line-height: 3rem;
+}
+#profile-picture {
+    padding-top: 80px;
+    max-width: 200px;
+}
+.python-img {
+    max-width: 10.9375rem;
+    float: left;
+    margin-right: 30px;
+}
+.web-development-img {
+    max-width: 14.0625rem;
+    float: right;
+    padding-right: 130px;
+}
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    height: 740px;
+}
+.middle-container {
+    padding-top: 120px;
+}
+.bottom-container {
+    position: relative;
+    margin-top: 150px;
+    background-color: #E4F9F5;
+    height: 120px;
+    padding-top: 60px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    right: 1080px;
+}
+.top-cloud {
+    position: relative;
+    left: 370px;
+}
+.mountain {
+    position: relative;
+    top: 98px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 70px auto 70px auto;
+    text-align: left;
+    line-height: 2;
+}
+.adjust-2 {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 7px;
+    width: 4%;
+    margin: 100px auto 100px auto;
+    color: #EAF6F6;
+}
+
+.get-touch {
+    font-size: 2rem;
+    color: #247881;
+}
+.available {
+    margin: 50px auto;
+}
+.hey {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.btn {
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: 'Montserrat', sans-serif;
+    color: #291409;
+    font-size: 19px;
+    background: #2aacb0;
+    padding: 13px 25px 14px 26px;
+    text-decoration: none;
+    transition-duration: 0.5s;
+
+}
+.btn:hover {
+    background: #0c929e;
+    text-decoration: none;
+}
+
+.footer-link {
+    position: relative;
+    margin: 50px 50px 50px 50px;
+    color: #0c929e;
+    text-decoration: none;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+.footer-link:hover {
+    color:black;
+}
+
+#last {
+    margin-top: 30px;
+    font-size: small;
+    color: #247881;
+
+}
+#last span {
+    text-decoration: underline;
+}
+
+
